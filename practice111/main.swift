@@ -93,6 +93,7 @@ func miltiplyTable(num: Int){
     print("\(num) * 1 = \(num * 1)")
     print("\(num) * 5 = \(num * 5)")
     print("\(num) * 10 = \(num * 10)")
+    print("")
 }
 
 let num = readLine()!
